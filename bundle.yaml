@@ -11,7 +11,7 @@ services:
     to:
       - "0"
   cwr:
-    charm: "cs:~juju-solutions/cwr"
+    charm: "cs:~kos.tsakalozos/cwr"
     annotations:
       gui-x: "300"
       gui-y: "400"
